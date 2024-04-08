@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... web deveopment
 - 💞️ I’m looking to collaborate with ... people who are intereseted into the same domain 
 - 📫 How to reach me ... tusharvaish077@gmail.com
-- 😄 Pronouns: ... he
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love Cats
 
 <!---
